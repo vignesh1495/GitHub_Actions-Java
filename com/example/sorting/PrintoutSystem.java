@@ -2,6 +2,8 @@ package com.example.sorting;
 
 import java.util.Scanner;
 
+import java.util.Scanner;
+
 public class PrintoutSystem {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
